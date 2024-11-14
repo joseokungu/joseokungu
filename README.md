@@ -1,3 +1,5 @@
+# ABOUT ME
+
 - 👋 Hi, I’m @joseokitandende! I'm a software developer who loves building impactful solutions and exploring new technologies.
   
 - 👀 I’m interested in creating user-centered applications, especially in the areas of web development and mobile-first design.
